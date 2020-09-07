@@ -1,0 +1,5 @@
+"0","# Read data and directly transform to frequency"
+"0","fft_data <- read_audio_fft(clip1, end_time = 60.0)"
+"0",""
+"0","# Plot the spectrogram"
+"0","plot(fft_data)"

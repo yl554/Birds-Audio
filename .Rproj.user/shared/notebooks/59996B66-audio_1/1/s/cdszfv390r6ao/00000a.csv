@@ -1,0 +1,1 @@
+"0","plot(timeArray[50000:960000], s1[50000:960000], type='l', col='black', xlab='Time (s)', ylab='Amplitude')"

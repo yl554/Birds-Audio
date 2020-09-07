@@ -1,0 +1,6 @@
+"0","# generate x-axis with frequencies"
+"0","x.axis <- 1:(length(X.k)/2) * acq.freq/length(X.k) #So for each actual frequency in the signal, fft() will give 2 peaks (one at the ""actual"" frequency and one at sampling frequency minus ""actual"" frequency), making the second half of the magnitude vector a mirror image of the first half.As long as the sampling frequency was at least twice as high as the expected signal frequency, all ""meaningful"" information is contained in the the first half of the magnitude vector."
+"0","plot.data  <- cbind(x.axis, Mod(X.k))"
+"0","xlimits=c(0,length(X.k)/2)"
+"0","  "
+"0","plot(plot.data[1:(length(X.k)/2), ], t=""h"", lwd=2, main=""Frequency-Domain Graph: Full Data"", xlab=""Frequency (Hz)"", ylab=""Strength"")"

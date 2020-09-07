@@ -1,0 +1,1 @@
+"0","plot(plot.data[100000:480000, ], t=""h"", lwd=2, main=""Frequency-Domain: High Freq"", xlab=""Frequency (Hz)"", ylab=""Strength"")"

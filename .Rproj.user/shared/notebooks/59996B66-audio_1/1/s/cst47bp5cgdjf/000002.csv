@@ -1,0 +1,5 @@
+"0","X.k <- fft(s1)                   # get amount of each frequency k"
+"0","time     <- 60                            # measuring time interval (seconds)"
+"0","acq.freq <- 16000                          # data acquisition frequency/ sampling rate (Hz)"
+"0",""
+"0","ts  <- seq(0,time-1/acq.freq,1/acq.freq) # vector of sampling time-points (s) "

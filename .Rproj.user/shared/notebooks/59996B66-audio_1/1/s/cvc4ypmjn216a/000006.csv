@@ -1,0 +1,4 @@
+"0","clip1_data <- read_audio_bin(clip1, channels = 1, end_time = 60.0)"
+"2","Unknown frame size for input audio format: pcm_s32le
+"
+"0","plot(clip1_data, type = 'l')"
