@@ -3,7 +3,7 @@
     "path": "E:/Duke Now!/Classes/Fall 2020/Stats Research/muser-audio/audio_1.Rmd",
     "project_path": "audio_1.Rmd",
     "type": "r_markdown",
-    "hash": "611269552",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1599406020584.0,
@@ -11,16 +11,16 @@
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "66,17",
-        "scrollLine": "64",
+        "cursorPosition": "68,17",
+        "scrollLine": "81",
         "chunk_output_type": "inline"
     },
     "folds": "",
-    "lastKnownWriteTime": 1599450075,
+    "lastKnownWriteTime": 1599450402,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1599450075249,
+    "last_content_update": 1599450402028,
     "read_only": false,
     "read_only_alternatives": []
 }

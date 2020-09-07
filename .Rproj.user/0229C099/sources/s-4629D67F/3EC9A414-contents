@@ -1,6 +1,8 @@
 ---
-title: "Audio Muser: Track 1"
-output: html_notebook
+title: 'Audio Muser: Track 1'
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r library}
